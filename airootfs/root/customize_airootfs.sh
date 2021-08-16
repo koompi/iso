@@ -37,6 +37,8 @@ echo "koompi_os" | tee /etc/hostname
 echo -e '--save /etc/pacman.d/mirrorlist \n--country "Hong Kong" \n--country Singapore \n--country Japan \n--country China \n--latest 20 \n--protocol https --sort rate' | sudo tee /etc/xdg/reflector/reflector.conf
 reflector --country "Hong Kong" --country Singapore --country Japan --country China --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 
+pacman -Syy --noconfirm koompi-skel --overwrite="*"
+
 # Set password for root user
 echo -e "123\n123" | passwd root
 

@@ -51,7 +51,6 @@ koompi-theme-manager-qt5
 latte-dock
 kwin-scripts-parachute
 kwin-scripts-sticky-window-snapping-git
-koompi-skel
 hicolor-icon-theme
 webkit2gtk
 
@@ -125,7 +124,6 @@ unzip
 unrar
 p7zip
 xz
-lzma
 lzop
 lz4
 
