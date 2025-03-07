@@ -1,0 +1,13 @@
+NAME="KOOMPI OS"
+PRETTY_NAME="KOOMPI OS"
+ID=koompi
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://koompi.org/"
+DOCUMENTATION_URL="https://wiki.koompi.org/"
+SUPPORT_URL="https://t.me/koompi/"
+BUG_REPORT_URL="https://t.me/koompi/"
+PRIVACY_POLICY_URL="https://koompi.com/"
+LOGO=/usr/share/pixmaps/koompi-logo.png
+IMAGE_ID=koompi-os
+IMAGE_VERSION=2025.03.06

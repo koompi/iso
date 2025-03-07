@@ -1,0 +1,8 @@
+[General]
+Name=KOOMPI OS
+PRETTY_NAME=KOOMPI OS
+LogoPath=/usr/share/pixmaps/koompi-logo.png
+Website=http://koompi.org
+Version=202503
+Variant=Rolling Release
+UseOSReleaseVersion=false

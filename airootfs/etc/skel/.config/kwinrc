@@ -1,0 +1,16 @@
+[Desktops]
+Id_1=cc0de369-5d5d-4c34-9c58-5af7a2c29c78
+Number=1
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][f9d16951-1fcf-582a-9b2c-256e4633d892]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Wayland]
+InputMethod[$e]=/usr/share/applications/org.fcitx.Fcitx5.desktop
+
+[Xwayland]
+Scale=1.25
